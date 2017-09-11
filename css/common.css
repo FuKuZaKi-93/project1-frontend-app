@@ -1,0 +1,45 @@
+.level1{
+    background-color: #A4F4A4;
+}
+.level2{
+    background-color: #9F9FE9;
+}
+.level3{
+    background-color: #F3A8A8;   
+}
+
+
+#level{
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+#level th{
+    border: 1px solid #000;
+}
+#level td{
+    border: 1px solid #000;
+}
+.lv{
+    cursor: pointer;
+}
+
+
+table#Words{
+    margin: 20px auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+#Words td{
+    border: 1px black solid;
+    width: 500px;
+    cursor: pointer;
+}
+
+
+.notselected{
+    background-color: #fff;
+}
+.putOn{
+    background-color: #ddd;
+}
